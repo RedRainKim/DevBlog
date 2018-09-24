@@ -6,3 +6,5 @@ db.sqlite3
 /static
 .DS_Store
 /venv01
+.vscode/settings.json
+*.zip
